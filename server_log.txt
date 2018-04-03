@@ -1,0 +1,442 @@
+﻿ 3:00:31 BattlEye Server: Initialized (v1.217)
+ 3:00:31 Идентификатор сервера создан
+ 3:00:32 Game Port: 2302, Steam Query Port: 2303
+ 3:00:48 BattlEye Server: RCon admin #0 (127.0.0.1:57663) logged in
+ 3:00:49 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+ 3:00:49 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+ 4:50:48 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+ 5:30:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 30 минут!
+ 5:45:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 15 минут!
+ 5:50:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 10 минут!
+ 5:55:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 5 минут!
+ 5:57:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 3 минуты!
+ 5:59:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Всем выйти из техники и приготовиться, рестарт сервера через минуту!
+ 6:00:29 BattlEye Server: Initialized (v1.217)
+ 6:00:29 Идентификатор сервера создан
+ 6:00:29 Game Port: 2302, Steam Query Port: 2303
+ 6:00:48 BattlEye Server: RCon admin #0 (127.0.0.1:37639) logged in
+ 6:00:48 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+ 6:00:49 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+ 6:39:43 6EJIOPYC использует измененный файл данных
+ 6:39:43 BattlEye Server: Player #0 6EJIOPYC (178.120.31.29:23060) connected
+ 6:39:43 Игрок 6EJIOPYC соединяется.
+ 6:39:43 Задание DayZ Epoch Chernarus считывается из папки.
+ 6:39:44 BattlEye Server: Player #0 6EJIOPYC - BE GUID: cc5550e693968acfe864f591a04915b2
+ 6:39:45 Игрок 6EJIOPYC присоединился (id=76561198236814206).
+ 6:39:45 BattlEye Server: Verified GUID (cc5550e693968acfe864f591a04915b2) of player #0 6EJIOPYC
+ 6:39:45 BattlEye Server: Player #0 6EJIOPYC - Legacy GUID: d942a704aafb2fda6ee036a1169ac1b5
+ 6:39:57 Роли назначены.
+ 6:39:57 Чтение задания...
+ 6:40:04 Задание загружено.
+ 6:42:06 Игра начата.
+ 7:31:55 Bugor использует измененный файл данных
+ 7:31:55 BattlEye Server: Player #1 Bugor (5.136.106.99:2304) connected
+ 7:31:55 Игрок Bugor соединяется.
+ 7:31:57 BattlEye Server: Player #1 Bugor - BE GUID: be99f94299af82c2385ffc8a7a39c14f
+ 7:31:57 Игрок Bugor присоединился (id=76561198151776423).
+ 7:31:57 BattlEye Server: Verified GUID (be99f94299af82c2385ffc8a7a39c14f) of player #1 Bugor
+ 7:31:57 BattlEye Server: Player #1 Bugor - Legacy GUID: e4a540ac45d5d620f5f33458886d46ca
+ 7:32:30 BattlEye Server: (Side) 6EJIOPYC: дарова
+ 7:32:49 BattlEye Server: (Group) 6EJIOPYC: привет
+ 7:32:52 BattlEye Server: (Side) Bugor: привет
+ 7:32:58 BattlEye Server: (Group) 6EJIOPYC: в груповой пиши
+ 7:34:04 BattlEye Server: (Group) 6EJIOPYC: я себе лав купил
+ 7:34:16 BattlEye Server: (Group) 6EJIOPYC: ооо
+ 7:34:19 BattlEye Server: (Group) 6EJIOPYC: го туда?
+ 7:34:41 BattlEye Server: (Group) 6EJIOPYC: там топ боеприпас
+ 7:37:57 BattlEye Server: (Group) 6EJIOPYC: ну поехали)
+ 7:39:01 BattlEye Server: (Group) 6EJIOPYC: стой
+ 7:39:11 BattlEye Server: (Group) 6EJIOPYC: щас
+ 7:39:41 BattlEye Server: (Group) 6EJIOPYC: блин
+ 7:39:44 BattlEye Server: (Group) 6EJIOPYC: я взял м2
+ 7:39:45 BattlEye Server: (Group) 6EJIOPYC: фак
+ 7:40:06 BattlEye Server: (Group) 6EJIOPYC: ладно поехали
+ 7:40:25 BattlEye Server: (Group) 6EJIOPYC: довай
+ 7:40:28 BattlEye Server: (Group) 6EJIOPYC: ты по дороге
+ 7:40:31 BattlEye Server: (Group) 6EJIOPYC: я на перекос
+ 7:48:33 BattlEye Server: (Group) 6EJIOPYC: сядь комне
+ 7:48:38 BattlEye Server: (Group) 6EJIOPYC: за капитана
+ 7:48:59 BattlEye Server: (Group) 6EJIOPYC: сразу пулик выноси
+ 7:49:04 BattlEye Server: (Group) 6EJIOPYC: с заде надо
+ 7:49:12 BattlEye Server: (Group) 6EJIOPYC: с зада
+ 7:50:34 BattlEye Server: (Group) 6EJIOPYC: фак
+ 7:50:38 BattlEye Server: (Group) 6EJIOPYC: чуть на мину не наехал
+ 7:50:48 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+ 7:51:28 BattlEye Server: (Group) 6EJIOPYC: там еще в елке
+ 7:52:47 BattlEye Server: (Group) 6EJIOPYC: видиш?
+ 7:53:29 BattlEye Server: (Group) 6EJIOPYC: бери себе м134
+ 7:53:53 BattlEye Server: (Group) 6EJIOPYC: можно мне сув?
+ 7:54:51 BattlEye Server: (Group) Bugor: геройку набиваеш?
+ 7:54:58 BattlEye Server: (Group) 6EJIOPYC: давно уже набил
+ 7:55:38 BattlEye Server: (Group) 6EJIOPYC: я щас выйду
+ 7:55:42 BattlEye Server: (Group) 6EJIOPYC: брата надо зависти
+ 7:55:51 BattlEye Server: (Group) 6EJIOPYC: через 20 мин зайду
+ 7:56:13 Игрок 6EJIOPYC отсоединился.
+ 7:56:13 BattlEye Server: Player #0 6EJIOPYC disconnected
+ 8:08:51 Player Bugor kicked off by BattlEye: PublicVariable Restriction #0
+ 8:08:51 Игрок Bugor отсоединился.
+ 8:09:32 Bugor использует измененный файл данных
+ 8:09:32 BattlEye Server: Player #0 Bugor (5.136.106.99:2304) connected
+ 8:09:32 Игрок Bugor соединяется.
+ 8:09:33 BattlEye Server: Player #0 Bugor - BE GUID: be99f94299af82c2385ffc8a7a39c14f
+ 8:09:33 Игрок Bugor присоединился (id=76561198151776423).
+ 8:09:33 BattlEye Server: Verified GUID (be99f94299af82c2385ffc8a7a39c14f) of player #0 Bugor
+ 8:09:34 BattlEye Server: Player #0 Bugor - Legacy GUID: e4a540ac45d5d620f5f33458886d46ca
+ 8:10:58 Игрок Bugor отсоединился.
+ 8:10:58 BattlEye Server: Player #0 Bugor disconnected
+ 8:15:04 6EJIOPYC использует измененный файл данных
+ 8:15:04 BattlEye Server: Player #0 6EJIOPYC (178.120.31.29:23098) connected
+ 8:15:04 Игрок 6EJIOPYC соединяется.
+ 8:15:05 BattlEye Server: Player #0 6EJIOPYC - BE GUID: cc5550e693968acfe864f591a04915b2
+ 8:15:06 Игрок 6EJIOPYC присоединился (id=76561198236814206).
+ 8:15:06 BattlEye Server: Verified GUID (cc5550e693968acfe864f591a04915b2) of player #0 6EJIOPYC
+ 8:15:06 BattlEye Server: Player #0 6EJIOPYC - Legacy GUID: d942a704aafb2fda6ee036a1169ac1b5
+ 8:15:40 Игрок 6EJIOPYC отсоединился.
+ 8:15:40 BattlEye Server: Player #0 6EJIOPYC disconnected
+ 8:24:43 6EJIOPYC использует измененный файл данных
+ 8:24:43 BattlEye Server: Player #0 6EJIOPYC (178.120.31.29:52578) connected
+ 8:24:43 Игрок 6EJIOPYC соединяется.
+ 8:24:44 BattlEye Server: Player #0 6EJIOPYC - BE GUID: cc5550e693968acfe864f591a04915b2
+ 8:24:44 Игрок 6EJIOPYC присоединился (id=76561198236814206).
+ 8:24:44 BattlEye Server: Verified GUID (cc5550e693968acfe864f591a04915b2) of player #0 6EJIOPYC
+ 8:24:45 BattlEye Server: Player #0 6EJIOPYC - Legacy GUID: d942a704aafb2fda6ee036a1169ac1b5
+ 8:30:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 30 минут!
+ 8:34:10 Player 6EJIOPYC kicked off by BattlEye: SetVariable Restriction #4
+ 8:34:10 Игрок 6EJIOPYC отсоединился.
+ 8:34:17 6EJIOPYC использует измененный файл данных
+ 8:34:17 BattlEye Server: Player #0 6EJIOPYC (178.120.31.29:52578) connected
+ 8:34:17 Игрок 6EJIOPYC соединяется.
+ 8:34:18 BattlEye Server: Player #0 6EJIOPYC - BE GUID: cc5550e693968acfe864f591a04915b2
+ 8:34:19 Игрок 6EJIOPYC присоединился (id=76561198236814206).
+ 8:34:19 BattlEye Server: Verified GUID (cc5550e693968acfe864f591a04915b2) of player #0 6EJIOPYC
+ 8:34:19 BattlEye Server: Player #0 6EJIOPYC - Legacy GUID: d942a704aafb2fda6ee036a1169ac1b5
+ 8:37:38 Игрок 6EJIOPYC отсоединился.
+ 8:37:38 BattlEye Server: Player #0 6EJIOPYC disconnected
+ 8:38:35 6EJIOPYC использует измененный файл данных
+ 8:38:35 BattlEye Server: Player #0 6EJIOPYC (178.120.31.29:52578) connected
+ 8:38:35 Игрок 6EJIOPYC соединяется.
+ 8:38:36 BattlEye Server: Player #0 6EJIOPYC - BE GUID: cc5550e693968acfe864f591a04915b2
+ 8:38:37 Игрок 6EJIOPYC присоединился (id=76561198236814206).
+ 8:38:37 BattlEye Server: Verified GUID (cc5550e693968acfe864f591a04915b2) of player #0 6EJIOPYC
+ 8:38:37 BattlEye Server: Player #0 6EJIOPYC - Legacy GUID: d942a704aafb2fda6ee036a1169ac1b5
+ 8:45:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 15 минут!
+ 8:48:31 Игрок 6EJIOPYC отсоединился.
+ 8:48:31 BattlEye Server: Player #0 6EJIOPYC disconnected
+ 8:50:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 10 минут!
+ 8:55:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 5 минут!
+ 8:57:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 3 минуты!
+ 8:59:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Всем выйти из техники и приготовиться, рестарт сервера через минуту!
+ 9:00:31 BattlEye Server: Initialized (v1.217)
+ 9:00:31 Идентификатор сервера создан
+ 9:00:32 Game Port: 2302, Steam Query Port: 2303
+ 9:00:48 BattlEye Server: RCon admin #0 (127.0.0.1:56257) logged in
+ 9:00:49 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+ 9:00:49 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+ 9:29:39 Karel10 использует измененный файл данных
+ 9:29:39 BattlEye Server: Player #0 Karel10 (217.66.154.233:63248) connected
+ 9:29:39 Игрок Karel10 соединяется.
+ 9:29:39 Задание DayZ Epoch Chernarus считывается из папки.
+ 9:29:40 BattlEye Server: Player #0 Karel10 - BE GUID: 6b90a45adbd16f9978f15e816fb80392
+ 9:29:41 Игрок Karel10 присоединился (id=76561198106040665).
+ 9:29:41 BattlEye Server: Verified GUID (6b90a45adbd16f9978f15e816fb80392) of player #0 Karel10
+ 9:29:41 BattlEye Server: Player #0 Karel10 - Legacy GUID: e664005a3968148b42e30a6f054cec2d
+ 9:29:48 Роли назначены.
+ 9:29:48 Чтение задания...
+ 9:29:54 Задание загружено.
+ 9:30:44 Игра начата.
+ 9:46:53 6EJIOPYC использует измененный файл данных
+ 9:46:53 BattlEye Server: Player #1 6EJIOPYC (178.120.31.29:5682) connected
+ 9:46:53 Игрок 6EJIOPYC соединяется.
+ 9:46:54 BattlEye Server: Player #1 6EJIOPYC - BE GUID: cc5550e693968acfe864f591a04915b2
+ 9:46:55 Игрок 6EJIOPYC присоединился (id=76561198236814206).
+ 9:46:55 BattlEye Server: Verified GUID (cc5550e693968acfe864f591a04915b2) of player #1 6EJIOPYC
+ 9:46:55 BattlEye Server: Player #1 6EJIOPYC - Legacy GUID: d942a704aafb2fda6ee036a1169ac1b5
+ 9:53:01 BattlEye Server: (Side) 6EJIOPYC: дарова
+ 9:54:42 BattlEye Server: (Side) 6EJIOPYC: ух 
+ 9:54:44 BattlEye Server: (Side) Karel10: привет
+ 9:54:50 BattlEye Server: (Side) 6EJIOPYC: чо давно тут?
+ 9:55:00 BattlEye Server: (Side) Karel10: 5 мин
+ 9:55:03 BattlEye Server: (Side) 6EJIOPYC: ясн
+ 9:57:05 BattlEye Server: (Side) 6EJIOPYC: ахуе
+ 9:57:08 BattlEye Server: (Side) 6EJIOPYC: ебана
+ 9:57:15 BattlEye Server: (Side) Karel10: ?
+ 9:57:23 BattlEye Server: (Side) 6EJIOPYC: на велике взлетел)
+ 9:58:58 BattlEye Server: (Side) 6EJIOPYC: у меня в наличных 133 касаря)
+ 9:59:18 BattlEye Server: (Side) 6EJIOPYC: когда будет чорный рынок?0
+ 9:59:20 BattlEye Server: (Side) 6EJIOPYC: ))
+ 9:59:56 BattlEye Server: (Side) Karel10: работаем над им
+10:00:09 BattlEye Server: (Side) 6EJIOPYC: пипец я полетал)
+10:00:15 BattlEye Server: (Side) Karel10: рубины купи да в сейф
+10:00:57 asd использует измененный файл данных
+10:00:57 BattlEye Server: Player #2 asd (178.91.18.199:33483) connected
+10:00:57 Игрок asd соединяется.
+10:00:58 BattlEye Server: Player #2 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+10:00:58 Игрок asd присоединился (id=76561198022884892).
+10:00:58 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #2 asd
+10:00:59 BattlEye Server: Player #2 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+10:01:34 simani использует измененный файл данных
+10:01:34 BattlEye Server: Player #3 simani (212.164.145.28:2304) connected
+10:01:34 Игрок simani соединяется.
+10:01:35 BattlEye Server: Player #3 simani - BE GUID: aac00d348ae3f5acb59a7ea8bd91f239
+10:01:35 Игрок simani присоединился (id=76561198134536049).
+10:01:35 BattlEye Server: Verified GUID (aac00d348ae3f5acb59a7ea8bd91f239) of player #3 simani
+10:01:36 BattlEye Server: Player #3 simani - Legacy GUID: 7920a252b079e30bac42a6aed75fec79
+10:04:15 BattlEye Server: (Side) 6EJIOPYC: асд даров
+10:04:20 BattlEye Server: (Side) asd: Здарова
+10:05:17 BattlEye Server: (Side) simani: всем привет
+10:05:20 BattlEye Server: (Side) 6EJIOPYC: даров
+10:05:22 BattlEye Server: (Side) asd: Привет
+10:08:51 BattlEye Server: (Side) 6EJIOPYC: на сс боты прибежали
+10:12:29 BattlEye Server: (Side) 6EJIOPYC: ниху
+10:12:32 BattlEye Server: (Side) 6EJIOPYC: боты с беретой
+10:13:19 BattlEye Server: (Direct) asd: тссс
+10:13:25 BattlEye Server: (Direct) 6EJIOPYC: спасибо
+10:13:30 BattlEye Server: (Direct) asd: Не за что
+10:13:44 BattlEye Server: (Direct) 6EJIOPYC: можеш машину поченить
+10:14:03 BattlEye Server: (Direct) 6EJIOPYC: спсэ
+10:14:06 BattlEye Server: (Direct) 6EJIOPYC: блин
+10:14:32 BattlEye Server: (Direct) 6EJIOPYC: поехали посмотриш на мою хату)
+10:14:43 BattlEye Server: (Direct) asd: Едь 
+10:17:12 BattlEye Server: (Side) 6EJIOPYC: асд
+10:17:18 BattlEye Server: (Side) 6EJIOPYC: если нажать обслужить гараж
+10:17:18 BattlEye Server: (Side) Karel10: ?
+10:17:21 BattlEye Server: (Side) 6EJIOPYC: точто будет
+10:17:36 BattlEye Server: (Side) 6EJIOPYC: то что будет?
+10:17:50 BattlEye Server: (Side) Karel10: попробуй
+10:18:00 BattlEye Server: (Side) 6EJIOPYC: ааа
+10:18:01 BattlEye Server: (Side) 6EJIOPYC: пон
+10:18:02 BattlEye Server: (Side) Karel10: меня кик
+10:18:09 BattlEye Server: (Side) 6EJIOPYC: за что?
+10:18:17 BattlEye Server: (Side) Karel10: да это раньше
+10:19:11 BattlEye Server: (Side) 6EJIOPYC: ахренеть
+10:19:16 BattlEye Server: (Side) 6EJIOPYC: нечего не обслужилось
+10:19:18 BattlEye Server: (Side) Karel10: ?
+10:19:39 BattlEye Server: (Side) Karel10: у тя там техника есть?
+10:19:41 BattlEye Server: (Side) 6EJIOPYC: да
+10:19:45 BattlEye Server: (Side) 6EJIOPYC: я поставил хамер
+10:19:49 BattlEye Server: (Side) 6EJIOPYC: что бы он поченился
+10:19:51 BattlEye Server: (Side) 6EJIOPYC: а хрен там
+10:21:08 BattlEye Server: (Side) 6EJIOPYC: ладно я пойду
+10:21:14 BattlEye Server: (Side) 6EJIOPYC: удачи вам
+10:21:34 Игрок 6EJIOPYC отсоединился.
+10:21:34 BattlEye Server: Player #1 6EJIOPYC disconnected
+10:40:41 Player Karel10 kicked off by BattlEye: PublicVariable Restriction #0
+10:40:41 Игрок Karel10 отсоединился.
+10:41:51 Karel10 использует измененный файл данных
+10:41:51 BattlEye Server: Player #4 Karel10 (217.66.154.233:63248) connected
+10:41:51 Игрок Karel10 соединяется.
+10:41:52 BattlEye Server: Player #4 Karel10 - BE GUID: 6b90a45adbd16f9978f15e816fb80392
+10:41:52 Игрок Karel10 присоединился (id=76561198106040665).
+10:41:52 BattlEye Server: Verified GUID (6b90a45adbd16f9978f15e816fb80392) of player #4 Karel10
+10:41:53 BattlEye Server: Player #4 Karel10 - Legacy GUID: e664005a3968148b42e30a6f054cec2d
+10:43:33 Player asd kicked off by BattlEye: PublicVariable Restriction #0
+10:43:33 Игрок asd отсоединился.
+10:44:15 Player Karel10 kicked off by BattlEye: PublicVariable Restriction #0
+10:44:15 Игрок Karel10 отсоединился.
+10:44:55 Karel10 использует измененный файл данных
+10:44:55 BattlEye Server: Player #4 Karel10 (217.66.154.233:63248) connected
+10:44:55 Игрок Karel10 соединяется.
+10:44:56 BattlEye Server: Player #4 Karel10 - BE GUID: 6b90a45adbd16f9978f15e816fb80392
+10:44:56 Игрок Karel10 присоединился (id=76561198106040665).
+10:44:56 BattlEye Server: Verified GUID (6b90a45adbd16f9978f15e816fb80392) of player #4 Karel10
+10:44:57 BattlEye Server: Player #4 Karel10 - Legacy GUID: e664005a3968148b42e30a6f054cec2d
+10:45:49 asd использует измененный файл данных
+10:45:49 BattlEye Server: Player #5 asd (178.91.18.199:33483) connected
+10:45:49 Игрок asd соединяется.
+10:45:51 BattlEye Server: Player #5 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+10:45:51 Игрок asd присоединился (id=76561198022884892).
+10:45:51 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #5 asd
+10:45:52 BattlEye Server: Player #5 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+10:47:04 Player asd kicked off by BattlEye: PublicVariable Restriction #0
+10:47:04 Игрок asd отсоединился.
+10:47:10 asd использует измененный файл данных
+10:47:10 BattlEye Server: Player #5 asd (178.91.18.199:33483) connected
+10:47:10 Игрок asd соединяется.
+10:47:11 BattlEye Server: Player #5 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+10:47:11 Игрок asd присоединился (id=76561198022884892).
+10:47:11 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #5 asd
+10:47:12 BattlEye Server: Player #5 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+10:50:48 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+11:29:44 JlOM использует измененный файл данных
+11:29:44 BattlEye Server: Player #6 JlOM (5.137.32.252:35873) connected
+11:29:44 Игрок JlOM соединяется.
+11:29:45 BattlEye Server: Player #6 JlOM - BE GUID: 10eea682103bc2af74affab2a3cd8f27
+11:29:45 Игрок JlOM присоединился (id=76561198025456960).
+11:29:45 BattlEye Server: Verified GUID (10eea682103bc2af74affab2a3cd8f27) of player #6 JlOM
+11:29:46 BattlEye Server: Player #6 JlOM - Legacy GUID: 7971b9ed8a4fd888105d5e992f17d9d5
+11:29:46 Игрок JlOM отсоединился.
+11:29:46 BattlEye Server: Player #6 JlOM disconnected
+11:30:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 30 минут!
+11:34:36 Игрок simani отсоединился.
+11:34:36 BattlEye Server: Player #3 simani disconnected
+11:45:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 15 минут!
+11:49:18 Игрок asd отсоединился.
+11:49:18 BattlEye Server: Player #5 asd disconnected
+11:49:42 Игрок Karel10 отсоединился.
+11:49:42 BattlEye Server: Player #4 Karel10 disconnected
+11:50:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 10 минут!
+11:55:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 5 минут!
+11:57:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Рестарт сервера через 3 минуты!
+11:59:00 BattlEye Server: RCon admin #0: (Global) ВНИМАНИЕ! Всем выйти из техники и приготовиться, рестарт сервера через минуту!
+12:00:31 BattlEye Server: Initialized (v1.217)
+12:00:31 Идентификатор сервера создан
+12:00:31 Game Port: 2302, Steam Query Port: 2303
+12:00:48 BattlEye Server: RCon admin #0 (127.0.0.1:39244) logged in
+12:00:49 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+12:00:49 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+12:02:17 asd использует измененный файл данных
+12:02:17 BattlEye Server: Player #0 asd (178.91.18.199:33306) connected
+12:02:17 Игрок asd соединяется.
+12:02:18 Задание DayZ Epoch Chernarus считывается из папки.
+12:02:19 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+12:02:19 Игрок asd присоединился (id=76561198022884892).
+12:02:20 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #0 asd
+12:02:20 BattlEye Server: Player #0 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+12:02:32 Роли назначены.
+12:02:32 Чтение задания...
+12:02:38 Задание загружено.
+12:03:19 Игра начата.
+12:49:59 MArtin использует измененный файл данных
+12:49:59 BattlEye Server: Player #1 MArtin (85.173.128.46:46293) connected
+12:49:59 Игрок MArtin соединяется.
+12:50:00 BattlEye Server: Player #1 MArtin - BE GUID: 219258183b92b58f8caeda8d3f2d0dd1
+12:50:01 Игрок MArtin присоединился (id=76561198160032133).
+12:50:01 BattlEye Server: Verified GUID (219258183b92b58f8caeda8d3f2d0dd1) of player #1 MArtin
+12:50:01 BattlEye Server: Player #1 MArtin - Legacy GUID: fe8d082ffedafa31e31db5aa3a1956e0
+12:57:47 BattlEye Server: (Side) asd: Привет
+12:58:00 BattlEye Server: (Side) MArtin: Привет 
+12:58:50 BattlEye Server: (Side) asd: Помочь может чем?
+12:59:01 BattlEye Server: (Side) MArtin: Да нет, спастбо 
+12:59:09 BattlEye Server: (Side) MArtin: Спасибо*
+13:01:04 BattlEye Server: (Side) asd: На вопрос ответишь?
+13:01:26 BattlEye Server: (Side) MArtin: Да, давай 
+13:01:57 BattlEye Server: (Side) asd: Почему вот игроки как только заходят сразу идут на СЗ аэро
+13:03:03 BattlEye Server: (Side) MArtin: Хз, но я потому что тут всегда норм лута))) 
+13:03:22 BattlEye Server: (Side) MArtin: Ну это новерное потому что так и есть) 
+13:03:36 Venek использует измененный файл данных
+13:03:36 BattlEye Server: Player #2 Venek (5.44.170.107:2304) connected
+13:03:36 Игрок Venek соединяется.
+13:03:37 BattlEye Server: Player #2 Venek - BE GUID: 82d28296a8ac2a9106b58378d9c1796c
+13:03:37 Игрок Venek присоединился (id=76561198276077082).
+13:03:37 BattlEye Server: Verified GUID (82d28296a8ac2a9106b58378d9c1796c) of player #2 Venek
+13:03:38 BattlEye Server: Player #2 Venek - Legacy GUID: c4b7441750498563714a64a920f2ee3f
+13:04:12 BattlEye Server: (Side) asd: Стартовый лут есть,почему бы не пойти сразу на миссию? Глядишь и больше сорвешь
+13:04:43 BattlEye Server: (Side) MArtin: Хз, привычка)) 
+13:06:09 BattlEye Server: (Side) asd: Ну если что-то понадобится обращайся,помогу
+13:06:32 BattlEye Server: (Side) MArtin: Хорошо, Спасибо 
+13:13:21 BattlEye Server: (Side) asd: это трейд
+13:14:51 BattlEye Server: (Direct) asd: стой
+13:15:05 BattlEye Server: (Direct) MArtin: стою 
+13:15:08 Игрок Venek отсоединился.
+13:15:08 BattlEye Server: Player #2 Venek disconnected
+13:15:19 BattlEye Server: (Direct) asd: сейчас попробуешь открыть ок?
+13:15:25 BattlEye Server: (Direct) MArtin: ок 
+13:15:51 BattlEye Server: 15:28:12 BattlEye Server: Initialized (v1.217)
+15:28:12 Идентификатор сервера создан
+15:28:12 Game Port: 2302, Steam Query Port: 2303
+15:28:28 BattlEye Server: RCon admin #0 (127.0.0.1:47999) logged in
+15:28:29 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+15:28:29 BattlEye Server: RCon admin #0: (Global) Рестарт каждые 3 часа: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 МСК
+15:28:47 asd использует измененный файл данных
+15:28:47 BattlEye Server: Player #0 asd (178.91.18.199:4845) connected
+15:28:47 Игрок asd соединяется.
+15:28:47 Задание DayZ Epoch Chernarus считывается из папки.
+15:28:49 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+15:28:49 BattlEye Server: Player #0 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+15:28:50 Игрок asd присоединился (id=76561198022884892).
+15:28:50 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #0 asd
+15:29:03 Роли назначены.
+15:29:03 Чтение задания...
+15:29:10 Задание загружено.
+15:29:49 Игра начата.
+15:33:05 Игрок asd отсоединился.
+15:33:05 BattlEye Server: Player #0 asd disconnected
+15:36:38 hunter использует измененный файл данных
+15:36:38 BattlEye Server: Player #0 hunter (212.109.7.189:2056) connected
+15:36:38 Игрок hunter соединяется.
+15:36:39 BattlEye Server: Player #0 hunter - BE GUID: 229fead227c14a3f217080ccf6d8b364
+15:36:40 Игрок hunter присоединился (id=76561198152519496).
+15:36:40 BattlEye Server: Verified GUID (229fead227c14a3f217080ccf6d8b364) of player #0 hunter
+15:36:40 BattlEye Server: Player #0 hunter - Legacy GUID: e61336516880bc0b19b4c026d8715c91
+16:14:11 Epsyo использует измененный файл данных
+16:14:11 BattlEye Server: Player #1 Epsyo (89.136.117.6:26260) connected
+16:14:11 Игрок Epsyo соединяется.
+16:14:12 BattlEye Server: Player #1 Epsyo - BE GUID: d8e0f09630bee34d8a45ce2a217da084
+16:14:12 Игрок Epsyo присоединился (id=76561198095850708).
+16:14:12 BattlEye Server: Verified GUID (d8e0f09630bee34d8a45ce2a217da084) of player #1 Epsyo
+16:14:13 Игрок Epsyo отсоединился.
+16:14:13 BattlEye Server: Player #1 Epsyo disconnected
+16:17:28 Karel10 использует измененный файл данных
+16:17:28 BattlEye Server: Player #1 Karel10 (217.66.156.26:39534) connected
+16:17:28 Игрок Karel10 соединяется.
+16:17:29 BattlEye Server: Player #1 Karel10 - BE GUID: 6b90a45adbd16f9978f15e816fb80392
+16:17:29 Игрок Karel10 присоединился (id=76561198106040665).
+16:17:29 BattlEye Server: Verified GUID (6b90a45adbd16f9978f15e816fb80392) of player #1 Karel10
+16:17:30 BattlEye Server: Player #1 Karel10 - Legacy GUID: e664005a3968148b42e30a6f054cec2d
+16:17:59 Maelz использует измененный файл данных
+16:17:59 BattlEye Server: Player #2 Maelz (85.26.234.87:12522) connected
+16:17:59 Игрок Maelz соединяется.
+16:18:00 BattlEye Server: Player #2 Maelz - BE GUID: 93f5b469900662324ea56fd08e02c422
+16:18:00 Игрок Maelz присоединился (id=76561198220413315).
+16:18:00 BattlEye Server: Verified GUID (93f5b469900662324ea56fd08e02c422) of player #2 Maelz
+16:18:01 BattlEye Server: Player #2 Maelz - Legacy GUID: addcd9a96c8365ebf27c5f67237b90d3
+16:19:51 artem использует измененный файл данных
+16:19:51 BattlEye Server: Player #3 artem (109.61.135.10:2304) connected
+16:19:51 Игрок artem соединяется.
+16:19:52 BattlEye Server: Player #3 artem - BE GUID: 518fdd76184f840db25654934e566d9d
+16:19:52 Игрок artem присоединился (id=76561198050114356).
+16:19:52 BattlEye Server: Verified GUID (518fdd76184f840db25654934e566d9d) of player #3 artem
+16:19:53 BattlEye Server: Player #3 artem - Legacy GUID: 3ff292145367446f6d6f69b32854ca38
+16:22:19 BattlEye Server: (Side) hunter: привет
+16:22:33 BattlEye Server: (Side) Karel10: привет
+16:25:39 BattlEye Server: RCon admin #1 (178.91.18.199:4729) logged in
+16:26:10 BattlEye Server: RCon admin #1: (Global) Teamspeak - dhatu.ru
+16:28:22 asd использует измененный файл данных
+16:28:22 BattlEye Server: Player #4 asd (178.91.18.199:4796) connected
+16:28:22 Игрок asd соединяется.
+16:28:23 BattlEye Server: Player #4 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+16:28:23 Игрок asd присоединился (id=76561198022884892).
+16:28:23 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #4 asd
+16:28:24 BattlEye Server: Player #4 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+16:28:36 BattlEye Server: (Side) hunter: а чего не пропала
+16:29:09 BattlEye Server: (Side) Karel10: так посмотри у тя ещё 1 бот
+16:32:15 BattlEye Server: (Side) artem: Хало
+16:32:22 BattlEye Server: (Side) asd: Здарова
+16:33:12 Player Maelz kicked off by BattlEye: Client not responding
+16:33:12 Игрок Maelz отсоединился.
+16:33:35 Maelz использует измененный файл данных
+16:33:35 BattlEye Server: Player #5 Maelz (85.26.234.87:12522) connected
+16:33:35 Игрок Maelz соединяется.
+16:33:36 BattlEye Server: Player #5 Maelz - BE GUID: 93f5b469900662324ea56fd08e02c422
+16:33:37 Игрок Maelz присоединился (id=76561198220413315).
+16:33:37 BattlEye Server: Verified GUID (93f5b469900662324ea56fd08e02c422) of player #5 Maelz
+16:33:37 BattlEye Server: Player #5 Maelz - Legacy GUID: addcd9a96c8365ebf27c5f67237b90d3
+16:40:20 Poster Child использует измененный файл данных
+16:40:20 BattlEye Server: Player #6 Poster Child (93.185.28.36:54180) connected
+16:40:20 Игрок Poster Child соединяется.
+16:40:22 BattlEye Server: Player #6 Poster Child - BE GUID: c2833004627b91c11e4bc3387c70d361
+16:40:22 BattlEye Server: Player #6 Poster Child - Legacy GUID: 16d46645d18a71b2638145339bd2c497
+16:40:22 Игрок Poster Child присоединился (id=76561198271594231).
+16:40:22 BattlEye Server: Verified GUID (c2833004627b91c11e4bc3387c70d361) of player #6 Poster Child
+16:44:23 Cobra использует измененный файл данных
+16:44:23 BattlEye Server: Player #7 Cobra (2.132.82.103:17705) connected
+16:44:23 Игрок Cobra соединяется.
+16:44:24 BattlEye Server: Player #7 Cobra - BE GUID: cd86d1a97e8b42844eb8479b80b14d14
+16:44:25 Игрок Cobra присоединился (id=76561198257129590).
+16:44:25 BattlEye Server: Verified GUID (cd86d1a97e8b42844eb8479b80b14d14) of player #7 Cobra
+16:44:25 BattlEye Server: Player #7 Cobra - Legacy GUID: 22abd853a3a46a31bdc450cbdd742151
+16:45:57 BattlEye Server: (Direct) asd: Здарова
+16:46:19 BattlEye Server: (Direct) asd: В белый чат видел надпись об убийстве?
+16:46:25 BattlEye Server: (Direct) asd: По середине экрана
+16:47:31 BattlEye Server: (Direct) asd: Над хоткеем смотри
+16:47:40 BattlEye Server: (Direct) asd: Будет написано об убийстве или нет
+16:47:42 BattlEye Server: (Direct) asd: Ок?
+16:50:47 BattlEye Server: (Side) artem: на сс боты )
+16:50:57 BattlEye Server: (Direct) asd: Белым текстом написано было?
+16:51:00 BattlEye Server: (Side) artem: пытаются меня убить)
+16:51:00 Игрок Poster Child отсоединился.
+16:51:00 BattlEye Server: Player #6 Poster Child disconnected
+16:51:01 Poster Child использует измененный файл данных
+16:51:01 BattlEye Server: Player #8 Poster Child (93.185.28.36:54180) connected
+16:51:01 Игрок Poster Child соединяется.
+16:51:03 BattlEye Server: Player #8 Poster Child - BE GUID: c2833004627b91c11e4bc3387c70d36
